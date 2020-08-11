@@ -1,7 +1,7 @@
 ## To-Do List
 
 Plot the following:
-- Weights of bonds from countries in pie chart
+- Weights of bonds from countries in pie chart √
 - longevity as  bar chart (in buckets)
 - maturity (bar chart)
 - Asset classes to Weights
